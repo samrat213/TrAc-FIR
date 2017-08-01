@@ -1,0 +1,402 @@
+[
+    {
+        "merged": "/Users/home/Downloads/Myapplicationx1/app/build/intermediates/res/merged/debug/drawable/abc_ic_voice_search_api_material.xml",
+        "source": "/Users/home/.android/build-cache/c7a5c5b285810d2a5e56f6d5f64e1ba00b34ef10/output/res/drawable/abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/home/Downloads/Myapplicationx1/app/build/intermediates/res/merged/debug/drawable/headon.jpeg",
+        "source": "/Users/home/Downloads/Myapplicationx1/app/src/main/res/drawable/headon.jpeg"
+    },
+    {
+        "merged": "/Users/home/Downloads/Myapplicationx1/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
+        "source": "/Users/home/.android/build-cache/c7a5c5b285810d2a5e56f6d5f64e1ba00b34ef10/output/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/Users/home/Downloads/Myapplicationx1/app/build/intermediates/res/merged/debug/drawable/opening.png",
+        "source": "/Users/home/Downloads/Myapplicationx1/app/src/main/res/drawable/opening.png"
+    },
+    {
+        "merged": "/Users/home/Downloads/Myapplicationx1/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_dark_focused.xml",
+        "source": "/Users/home/.android/build-cache/8a12de3e7adcc7fcbe637fac91d76af28c8af1ff/output/res/drawable/common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "/Users/home/Downloads/Myapplicationx1/app/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/Users/home/.android/build-cache/c7a5c5b285810d2a5e56f6d5f64e1ba00b34ef10/output/res/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/Users/home/Downloads/Myapplicationx1/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/Users/home/.android/build-cache/c7a5c5b285810d2a5e56f6d5f64e1ba00b34ef10/output/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/Users/home/Downloads/Myapplicationx1/app/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",
+        "source": "/Users/home/.android/build-cache/c7a5c5b285810d2a5e56f6d5f64e1ba00b34ef10/output/res/drawable/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/home/Downloads/Myapplicationx1/app/build/intermediates/res/merged/debug/drawable/abc_ic_ab_back_material.xml",
+        "source": "/Users/home/.android/build-cache/c7a5c5b285810d2a5e56f6d5f64e1ba00b34ef10/output/res/drawable/abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "/Users/home/Downloads/Myapplicationx1/app/build/intermediates/res/merged/debug/drawable/straightroad.jpeg",
+        "source": "/Users/home/Downloads/Myapplicationx1/app/src/main/res/drawable/straightroad.jpeg"
+    },
+    {
+        "merged": "/Users/home/Downloads/Myapplicationx1/app/build/intermediates/res/merged/debug/drawable/staggered.gif",
+        "source": "/Users/home/Downloads/Myapplicationx1/app/src/main/res/drawable/staggered.gif"
+    },
+    {
+        "merged": "/Users/home/Downloads/Myapplicationx1/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_light.xml",
+        "source": "/Users/home/.android/build-cache/8a12de3e7adcc7fcbe637fac91d76af28c8af1ff/output/res/drawable/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/home/Downloads/Myapplicationx1/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_dark_focused.xml",
+        "source": "/Users/home/.android/build-cache/8a12de3e7adcc7fcbe637fac91d76af28c8af1ff/output/res/drawable/common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "/Users/home/Downloads/Myapplicationx1/app/build/intermediates/res/merged/debug/drawable/parked.jpeg",
+        "source": "/Users/home/Downloads/Myapplicationx1/app/src/main/res/drawable/parked.jpeg"
+    },
+    {
+        "merged": "/Users/home/Downloads/Myapplicationx1/app/build/intermediates/res/merged/debug/drawable/pavedroad.jpeg",
+        "source": "/Users/home/Downloads/Myapplicationx1/app/src/main/res/drawable/pavedroad.jpeg"
+    },
+    {
+        "merged": "/Users/home/Downloads/Myapplicationx1/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/Users/home/.android/build-cache/c7a5c5b285810d2a5e56f6d5f64e1ba00b34ef10/output/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/Users/home/Downloads/Myapplicationx1/app/build/intermediates/res/merged/debug/drawable/pedestrain.jpeg",
+        "source": "/Users/home/Downloads/Myapplicationx1/app/src/main/res/drawable/pedestrain.jpeg"
+    },
+    {
+        "merged": "/Users/home/Downloads/Myapplicationx1/app/build/intermediates/res/merged/debug/drawable/parkedvechicleacc.jpeg",
+        "source": "/Users/home/Downloads/Myapplicationx1/app/src/main/res/drawable/parkedvechicleacc.jpeg"
+    },
+    {
+        "merged": "/Users/home/Downloads/Myapplicationx1/app/build/intermediates/res/merged/debug/drawable/tjunction.jpeg",
+        "source": "/Users/home/Downloads/Myapplicationx1/app/src/main/res/drawable/tjunction.jpeg"
+    },
+    {
+        "merged": "/Users/home/Downloads/Myapplicationx1/app/build/intermediates/res/merged/debug/drawable/nofac.jpeg",
+        "source": "/Users/home/Downloads/Myapplicationx1/app/src/main/res/drawable/nofac.jpeg"
+    },
+    {
+        "merged": "/Users/home/Downloads/Myapplicationx1/app/build/intermediates/res/merged/debug/drawable/uncontrolled.jpeg",
+        "source": "/Users/home/Downloads/Myapplicationx1/app/src/main/res/drawable/uncontrolled.jpeg"
+    },
+    {
+        "merged": "/Users/home/Downloads/Myapplicationx1/app/build/intermediates/res/merged/debug/drawable/abc_ic_clear_material.xml",
+        "source": "/Users/home/.android/build-cache/c7a5c5b285810d2a5e56f6d5f64e1ba00b34ef10/output/res/drawable/abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "/Users/home/Downloads/Myapplicationx1/app/build/intermediates/res/merged/debug/drawable/sunny.jpeg",
+        "source": "/Users/home/Downloads/Myapplicationx1/app/src/main/res/drawable/sunny.jpeg"
+    },
+    {
+        "merged": "/Users/home/Downloads/Myapplicationx1/app/build/intermediates/res/merged/debug/drawable/abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "/Users/home/.android/build-cache/c7a5c5b285810d2a5e56f6d5f64e1ba00b34ef10/output/res/drawable/abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/home/Downloads/Myapplicationx1/app/build/intermediates/res/merged/debug/drawable/accident.jpg",
+        "source": "/Users/home/Downloads/Myapplicationx1/app/src/main/res/drawable/accident.jpg"
+    },
+    {
+        "merged": "/Users/home/Downloads/Myapplicationx1/app/build/intermediates/res/merged/debug/drawable/station.jpeg",
+        "source": "/Users/home/Downloads/Myapplicationx1/app/src/main/res/drawable/station.jpeg"
+    },
+    {
+        "merged": "/Users/home/Downloads/Myapplicationx1/app/build/intermediates/res/merged/debug/drawable/roaddivider.jpeg",
+        "source": "/Users/home/Downloads/Myapplicationx1/app/src/main/res/drawable/roaddivider.jpeg"
+    },
+    {
+        "merged": "/Users/home/Downloads/Myapplicationx1/app/build/intermediates/res/merged/debug/drawable/notification_icon_background.xml",
+        "source": "/Users/home/.android/build-cache/c7a5c5b285810d2a5e56f6d5f64e1ba00b34ef10/output/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/Users/home/Downloads/Myapplicationx1/app/build/intermediates/res/merged/debug/drawable/stop.jpeg",
+        "source": "/Users/home/Downloads/Myapplicationx1/app/src/main/res/drawable/stop.jpeg"
+    },
+    {
+        "merged": "/Users/home/Downloads/Myapplicationx1/app/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
+        "source": "/Users/home/.android/build-cache/c7a5c5b285810d2a5e56f6d5f64e1ba00b34ef10/output/res/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/Users/home/Downloads/Myapplicationx1/app/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
+        "source": "/Users/home/.android/build-cache/c7a5c5b285810d2a5e56f6d5f64e1ba00b34ef10/output/res/drawable/abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/Users/home/Downloads/Myapplicationx1/app/build/intermediates/res/merged/debug/drawable/threelane.png",
+        "source": "/Users/home/Downloads/Myapplicationx1/app/src/main/res/drawable/threelane.png"
+    },
+    {
+        "merged": "/Users/home/Downloads/Myapplicationx1/app/build/intermediates/res/merged/debug/drawable/abc_ic_search_api_material.xml",
+        "source": "/Users/home/.android/build-cache/c7a5c5b285810d2a5e56f6d5f64e1ba00b34ef10/output/res/drawable/abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/home/Downloads/Myapplicationx1/app/build/intermediates/res/merged/debug/drawable/culvert.jpeg",
+        "source": "/Users/home/Downloads/Myapplicationx1/app/src/main/res/drawable/culvert.jpeg"
+    },
+    {
+        "merged": "/Users/home/Downloads/Myapplicationx1/app/build/intermediates/res/merged/debug/drawable/onelane.jpg",
+        "source": "/Users/home/Downloads/Myapplicationx1/app/src/main/res/drawable/onelane.jpg"
+    },
+    {
+        "merged": "/Users/home/Downloads/Myapplicationx1/app/build/intermediates/res/merged/debug/drawable/abc_vector_test.xml",
+        "source": "/Users/home/.android/build-cache/c7a5c5b285810d2a5e56f6d5f64e1ba00b34ef10/output/res/drawable/abc_vector_test.xml"
+    },
+    {
+        "merged": "/Users/home/Downloads/Myapplicationx1/app/build/intermediates/res/merged/debug/drawable/notification_bg_low.xml",
+        "source": "/Users/home/.android/build-cache/c7a5c5b285810d2a5e56f6d5f64e1ba00b34ef10/output/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/Users/home/Downloads/Myapplicationx1/app/build/intermediates/res/merged/debug/drawable/fog.jpeg",
+        "source": "/Users/home/Downloads/Myapplicationx1/app/src/main/res/drawable/fog.jpeg"
+    },
+    {
+        "merged": "/Users/home/Downloads/Myapplicationx1/app/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
+        "source": "/Users/home/.android/build-cache/c7a5c5b285810d2a5e56f6d5f64e1ba00b34ef10/output/res/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/Users/home/Downloads/Myapplicationx1/app/build/intermediates/res/merged/debug/drawable/bridge.jpeg",
+        "source": "/Users/home/Downloads/Myapplicationx1/app/src/main/res/drawable/bridge.jpeg"
+    },
+    {
+        "merged": "/Users/home/Downloads/Myapplicationx1/app/build/intermediates/res/merged/debug/drawable/statehigh.jpeg",
+        "source": "/Users/home/Downloads/Myapplicationx1/app/src/main/res/drawable/statehigh.jpeg"
+    },
+    {
+        "merged": "/Users/home/Downloads/Myapplicationx1/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/Users/home/.android/build-cache/c7a5c5b285810d2a5e56f6d5f64e1ba00b34ef10/output/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/home/Downloads/Myapplicationx1/app/build/intermediates/res/merged/debug/drawable/notification_tile_bg.xml",
+        "source": "/Users/home/.android/build-cache/c7a5c5b285810d2a5e56f6d5f64e1ba00b34ef10/output/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/Users/home/Downloads/Myapplicationx1/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_dark.xml",
+        "source": "/Users/home/.android/build-cache/8a12de3e7adcc7fcbe637fac91d76af28c8af1ff/output/res/drawable/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/home/Downloads/Myapplicationx1/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/Users/home/.android/build-cache/c7a5c5b285810d2a5e56f6d5f64e1ba00b34ef10/output/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/home/Downloads/Myapplicationx1/app/build/intermediates/res/merged/debug/drawable/flashingblinker.jpeg",
+        "source": "/Users/home/Downloads/Myapplicationx1/app/src/main/res/drawable/flashingblinker.jpeg"
+    },
+    {
+        "merged": "/Users/home/Downloads/Myapplicationx1/app/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
+        "source": "/Users/home/.android/build-cache/c7a5c5b285810d2a5e56f6d5f64e1ba00b34ef10/output/res/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/Users/home/Downloads/Myapplicationx1/app/build/intermediates/res/merged/debug/drawable/zebracrossing.jpeg",
+        "source": "/Users/home/Downloads/Myapplicationx1/app/src/main/res/drawable/zebracrossing.jpeg"
+    },
+    {
+        "merged": "/Users/home/Downloads/Myapplicationx1/app/build/intermediates/res/merged/debug/drawable/roundabout.jpeg",
+        "source": "/Users/home/Downloads/Myapplicationx1/app/src/main/res/drawable/roundabout.jpeg"
+    },
+    {
+        "merged": "/Users/home/Downloads/Myapplicationx1/app/build/intermediates/res/merged/debug/drawable/abc_ic_menu_overflow_material.xml",
+        "source": "/Users/home/.android/build-cache/c7a5c5b285810d2a5e56f6d5f64e1ba00b34ef10/output/res/drawable/abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "/Users/home/Downloads/Myapplicationx1/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_thumb_material.xml",
+        "source": "/Users/home/.android/build-cache/c7a5c5b285810d2a5e56f6d5f64e1ba00b34ef10/output/res/drawable/abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/home/Downloads/Myapplicationx1/app/build/intermediates/res/merged/debug/drawable/hail.jpeg",
+        "source": "/Users/home/Downloads/Myapplicationx1/app/src/main/res/drawable/hail.jpeg"
+    },
+    {
+        "merged": "/Users/home/Downloads/Myapplicationx1/app/build/intermediates/res/merged/debug/drawable/abc_btn_colored_material.xml",
+        "source": "/Users/home/.android/build-cache/c7a5c5b285810d2a5e56f6d5f64e1ba00b34ef10/output/res/drawable/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/home/Downloads/Myapplicationx1/app/build/intermediates/res/merged/debug/drawable/rural.jpeg",
+        "source": "/Users/home/Downloads/Myapplicationx1/app/src/main/res/drawable/rural.jpeg"
+    },
+    {
+        "merged": "/Users/home/Downloads/Myapplicationx1/app/build/intermediates/res/merged/debug/drawable/fromside.jpeg",
+        "source": "/Users/home/Downloads/Myapplicationx1/app/src/main/res/drawable/fromside.jpeg"
+    },
+    {
+        "merged": "/Users/home/Downloads/Myapplicationx1/app/build/intermediates/res/merged/debug/drawable/potholes.jpeg",
+        "source": "/Users/home/Downloads/Myapplicationx1/app/src/main/res/drawable/potholes.jpeg"
+    },
+    {
+        "merged": "/Users/home/Downloads/Myapplicationx1/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
+        "source": "/Users/home/.android/build-cache/c7a5c5b285810d2a5e56f6d5f64e1ba00b34ef10/output/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/Users/home/Downloads/Myapplicationx1/app/build/intermediates/res/merged/debug/drawable/notification_bg.xml",
+        "source": "/Users/home/.android/build-cache/c7a5c5b285810d2a5e56f6d5f64e1ba00b34ef10/output/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/Users/home/Downloads/Myapplicationx1/app/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/Users/home/.android/build-cache/c7a5c5b285810d2a5e56f6d5f64e1ba00b34ef10/output/res/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/Users/home/Downloads/Myapplicationx1/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_track_material.xml",
+        "source": "/Users/home/.android/build-cache/c7a5c5b285810d2a5e56f6d5f64e1ba00b34ef10/output/res/drawable/abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "/Users/home/Downloads/Myapplicationx1/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
+        "source": "/Users/home/.android/build-cache/c7a5c5b285810d2a5e56f6d5f64e1ba00b34ef10/output/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/home/Downloads/Myapplicationx1/app/build/intermediates/res/merged/debug/drawable/nathigh.jpeg",
+        "source": "/Users/home/Downloads/Myapplicationx1/app/src/main/res/drawable/nathigh.jpeg"
+    },
+    {
+        "merged": "/Users/home/Downloads/Myapplicationx1/app/build/intermediates/res/merged/debug/drawable/construction.jpeg",
+        "source": "/Users/home/Downloads/Myapplicationx1/app/src/main/res/drawable/construction.jpeg"
+    },
+    {
+        "merged": "/Users/home/Downloads/Myapplicationx1/app/build/intermediates/res/merged/debug/drawable/rainy.jpeg",
+        "source": "/Users/home/Downloads/Myapplicationx1/app/src/main/res/drawable/rainy.jpeg"
+    },
+    {
+        "merged": "/Users/home/Downloads/Myapplicationx1/app/build/intermediates/res/merged/debug/drawable/marketarea.jpeg",
+        "source": "/Users/home/Downloads/Myapplicationx1/app/src/main/res/drawable/marketarea.jpeg"
+    },
+    {
+        "merged": "/Users/home/Downloads/Myapplicationx1/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_dark.xml",
+        "source": "/Users/home/.android/build-cache/8a12de3e7adcc7fcbe637fac91d76af28c8af1ff/output/res/drawable/common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "/Users/home/Downloads/Myapplicationx1/app/build/intermediates/res/merged/debug/drawable/footbridge.jpeg",
+        "source": "/Users/home/Downloads/Myapplicationx1/app/src/main/res/drawable/footbridge.jpeg"
+    },
+    {
+        "merged": "/Users/home/Downloads/Myapplicationx1/app/build/intermediates/res/merged/debug/drawable/divider.jpeg",
+        "source": "/Users/home/Downloads/Myapplicationx1/app/src/main/res/drawable/divider.jpeg"
+    },
+    {
+        "merged": "/Users/home/Downloads/Myapplicationx1/app/build/intermediates/res/merged/debug/drawable/yjun.jpeg",
+        "source": "/Users/home/Downloads/Myapplicationx1/app/src/main/res/drawable/yjun.jpeg"
+    },
+    {
+        "merged": "/Users/home/Downloads/Myapplicationx1/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_tick_mark_material.xml",
+        "source": "/Users/home/.android/build-cache/c7a5c5b285810d2a5e56f6d5f64e1ba00b34ef10/output/res/drawable/abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "/Users/home/Downloads/Myapplicationx1/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background.xml",
+        "source": "/Users/home/.android/build-cache/c7a5c5b285810d2a5e56f6d5f64e1ba00b34ef10/output/res/drawable/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "/Users/home/Downloads/Myapplicationx1/app/build/intermediates/res/merged/debug/drawable/institutearea.jpeg",
+        "source": "/Users/home/Downloads/Myapplicationx1/app/src/main/res/drawable/institutearea.jpeg"
+    },
+    {
+        "merged": "/Users/home/Downloads/Myapplicationx1/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_light_focused.xml",
+        "source": "/Users/home/.android/build-cache/8a12de3e7adcc7fcbe637fac91d76af28c8af1ff/output/res/drawable/common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "/Users/home/Downloads/Myapplicationx1/app/build/intermediates/res/merged/debug/drawable/urban.jpeg",
+        "source": "/Users/home/Downloads/Myapplicationx1/app/src/main/res/drawable/urban.jpeg"
+    },
+    {
+        "merged": "/Users/home/Downloads/Myapplicationx1/app/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
+        "source": "/Users/home/.android/build-cache/c7a5c5b285810d2a5e56f6d5f64e1ba00b34ef10/output/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/home/Downloads/Myapplicationx1/app/build/intermediates/res/merged/debug/drawable/vehoverturn.jpeg",
+        "source": "/Users/home/Downloads/Myapplicationx1/app/src/main/res/drawable/vehoverturn.jpeg"
+    },
+    {
+        "merged": "/Users/home/Downloads/Myapplicationx1/app/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
+        "source": "/Users/home/.android/build-cache/c7a5c5b285810d2a5e56f6d5f64e1ba00b34ef10/output/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/Users/home/Downloads/Myapplicationx1/app/build/intermediates/res/merged/debug/drawable/withanim.jpeg",
+        "source": "/Users/home/Downloads/Myapplicationx1/app/src/main/res/drawable/withanim.jpeg"
+    },
+    {
+        "merged": "/Users/home/Downloads/Myapplicationx1/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_material.xml",
+        "source": "/Users/home/.android/build-cache/c7a5c5b285810d2a5e56f6d5f64e1ba00b34ef10/output/res/drawable/abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "/Users/home/Downloads/Myapplicationx1/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
+        "source": "/Users/home/.android/build-cache/c7a5c5b285810d2a5e56f6d5f64e1ba00b34ef10/output/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/Users/home/Downloads/Myapplicationx1/app/build/intermediates/res/merged/debug/drawable/offroad.jpeg",
+        "source": "/Users/home/Downloads/Myapplicationx1/app/src/main/res/drawable/offroad.jpeg"
+    },
+    {
+        "merged": "/Users/home/Downloads/Myapplicationx1/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_light.xml",
+        "source": "/Users/home/.android/build-cache/8a12de3e7adcc7fcbe637fac91d76af28c8af1ff/output/res/drawable/common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "/Users/home/Downloads/Myapplicationx1/app/build/intermediates/res/merged/debug/drawable/hitfromback.jpeg",
+        "source": "/Users/home/Downloads/Myapplicationx1/app/src/main/res/drawable/hitfromback.jpeg"
+    },
+    {
+        "merged": "/Users/home/Downloads/Myapplicationx1/app/build/intermediates/res/merged/debug/drawable/unpaved.jpeg",
+        "source": "/Users/home/Downloads/Myapplicationx1/app/src/main/res/drawable/unpaved.jpeg"
+    },
+    {
+        "merged": "/Users/home/Downloads/Myapplicationx1/app/build/intermediates/res/merged/debug/drawable/withanimal.jpeg",
+        "source": "/Users/home/Downloads/Myapplicationx1/app/src/main/res/drawable/withanimal.jpeg"
+    },
+    {
+        "merged": "/Users/home/Downloads/Myapplicationx1/app/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
+        "source": "/Users/home/.android/build-cache/c7a5c5b285810d2a5e56f6d5f64e1ba00b34ef10/output/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/home/Downloads/Myapplicationx1/app/build/intermediates/res/merged/debug/drawable/abc_ic_go_search_api_material.xml",
+        "source": "/Users/home/.android/build-cache/c7a5c5b285810d2a5e56f6d5f64e1ba00b34ef10/output/res/drawable/abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/home/Downloads/Myapplicationx1/app/build/intermediates/res/merged/debug/drawable/residenarea.jpeg",
+        "source": "/Users/home/Downloads/Myapplicationx1/app/src/main/res/drawable/residenarea.jpeg"
+    },
+    {
+        "merged": "/Users/home/Downloads/Myapplicationx1/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_small_material.xml",
+        "source": "/Users/home/.android/build-cache/c7a5c5b285810d2a5e56f6d5f64e1ba00b34ef10/output/res/drawable/abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "/Users/home/Downloads/Myapplicationx1/app/build/intermediates/res/merged/debug/drawable/steepgrade.jpeg",
+        "source": "/Users/home/Downloads/Myapplicationx1/app/src/main/res/drawable/steepgrade.jpeg"
+    },
+    {
+        "merged": "/Users/home/Downloads/Myapplicationx1/app/build/intermediates/res/merged/debug/drawable/footpath.jpeg",
+        "source": "/Users/home/Downloads/Myapplicationx1/app/src/main/res/drawable/footpath.jpeg"
+    },
+    {
+        "merged": "/Users/home/Downloads/Myapplicationx1/app/build/intermediates/res/merged/debug/drawable/fourarms.jpeg",
+        "source": "/Users/home/Downloads/Myapplicationx1/app/src/main/res/drawable/fourarms.jpeg"
+    },
+    {
+        "merged": "/Users/home/Downloads/Myapplicationx1/app/build/intermediates/res/merged/debug/drawable/openarea.jpeg",
+        "source": "/Users/home/Downloads/Myapplicationx1/app/src/main/res/drawable/openarea.jpeg"
+    },
+    {
+        "merged": "/Users/home/Downloads/Myapplicationx1/app/build/intermediates/res/merged/debug/drawable/policecontrol.jpeg",
+        "source": "/Users/home/Downloads/Myapplicationx1/app/src/main/res/drawable/policecontrol.jpeg"
+    },
+    {
+        "merged": "/Users/home/Downloads/Myapplicationx1/app/build/intermediates/res/merged/debug/drawable/download.jpeg",
+        "source": "/Users/home/Downloads/Myapplicationx1/app/src/main/res/drawable/download.jpeg"
+    },
+    {
+        "merged": "/Users/home/Downloads/Myapplicationx1/app/build/intermediates/res/merged/debug/drawable/over.jpeg",
+        "source": "/Users/home/Downloads/Myapplicationx1/app/src/main/res/drawable/over.jpeg"
+    },
+    {
+        "merged": "/Users/home/Downloads/Myapplicationx1/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_indicator_material.xml",
+        "source": "/Users/home/.android/build-cache/c7a5c5b285810d2a5e56f6d5f64e1ba00b34ef10/output/res/drawable/abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/home/Downloads/Myapplicationx1/app/build/intermediates/res/merged/debug/drawable/expressway.jpeg",
+        "source": "/Users/home/Downloads/Myapplicationx1/app/src/main/res/drawable/expressway.jpeg"
+    },
+    {
+        "merged": "/Users/home/Downloads/Myapplicationx1/app/build/intermediates/res/merged/debug/drawable/trafic.jpeg",
+        "source": "/Users/home/Downloads/Myapplicationx1/app/src/main/res/drawable/trafic.jpeg"
+    },
+    {
+        "merged": "/Users/home/Downloads/Myapplicationx1/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_light_focused.xml",
+        "source": "/Users/home/.android/build-cache/8a12de3e7adcc7fcbe637fac91d76af28c8af1ff/output/res/drawable/common_google_signin_btn_icon_light_focused.xml"
+    }
+]

@@ -1,0 +1,7 @@
+#Fri Jul 14 18:01:34 IST 2017
+base.0=/Users/home/Downloads/Myapplicationx1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_ddd0bc4eebf33b1d5a2c8a39079f37d7ff3d4011
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/home/Downloads/Myapplicationx1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_9904c5e6217d0b73c1d7ab805fc2974d0515b8e4/classes.dex
+base.1=/Users/home/Downloads/Myapplicationx1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_9904c5e6217d0b73c1d7ab805fc2974d0515b8e4
+file.0=/Users/home/Downloads/Myapplicationx1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_ddd0bc4eebf33b1d5a2c8a39079f37d7ff3d4011/classes.dex
